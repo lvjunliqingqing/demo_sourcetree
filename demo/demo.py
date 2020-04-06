@@ -3,7 +3,10 @@ class A(object)：
 	age = 30
 
 	def get_name(self)：
+		print("haha")
+		pass
 		return self.name
+
 class A(object)：
 	pass
 
@@ -21,4 +24,4 @@ class NB(object)：
 
 	def get_age(self)：
 		return self.age
-		
+
