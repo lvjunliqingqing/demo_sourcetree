@@ -13,4 +13,11 @@ class NiBi(object)：
 
 	def get_age(self)：
 		return self.age
+
+class NB(object)：
+	name = "NB"
+	age = "1000000"
+
+	def get_age(self)：
+		return self.age
 		
