@@ -8,7 +8,7 @@ class A(object)：
 		return self.name
 
 class A(object)：
-	NB = "NB"
+	pass
 
 class NiBi(object)：
 	name = "NIBI"
