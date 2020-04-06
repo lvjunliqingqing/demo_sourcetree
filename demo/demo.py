@@ -5,7 +5,7 @@ class A(object)：
 	def get_name(self)：
 		return self.name
 class A(object)：
-	pass
+	NB = "NB"
 
 class NiBi(object)：
 	name = "NIBI"
