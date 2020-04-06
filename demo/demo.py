@@ -4,4 +4,5 @@ class A(object)：
 
 	def get_name(self)：
 		print("haha")
+		pass
 		return self.name
